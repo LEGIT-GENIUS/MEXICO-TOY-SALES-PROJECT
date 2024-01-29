@@ -89,8 +89,18 @@ About 29,742 units of items are tied up at the inventory level, valued at $300,2
    
 * However, in 2023, a total of 541,073 units were sold, making the average unit sold per-month to be equal to 60,119 (541,073/9), considering the fact that the data in 2023 only comprises of records from January to September.
   
-**So, given the following estimation, it is advisable to get the average of the monthly sales in 2022 and 2023 in order to get the proper monthly estimate for each month;
+**So, given the following estimation, it is advisable to get the average of the monthly sales in 2022 and 2023 in order to get the proper monthly estimate for each month;**
+
 45,791 + 60,119 = 105,910
+
 102,910/2 = 52,955
+
 Therefore, the actual average of units sold per-month is 52,955.
-However, considering the amount of inventory that is tied up (29,742), it can be said that such won’t last more than a month.**
+
+However, considering the amount of inventory that is tied up (29,742), it can be said that such won’t last more than a month.
+
+# THE POWERBI DASHBOARD
+
+![Screenshot 2024-01-29 221206](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/045fe645-0585-4c4a-a04e-7297e9516304)
+![Screenshot 2024-01-29 221206](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/4c94117c-25af-478d-a1e9-f39d8fa4f723)
+
