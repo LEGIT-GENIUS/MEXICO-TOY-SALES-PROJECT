@@ -33,7 +33,11 @@ And can be accessed on the webpage via the link: https://mavenanalytics.io/data-
 **_3.	Cell referencing (absolute and relative) and formatting_**
 
 **_4.	Filtering_**
+
 **_5.	Data aggregation (mainly via the use of Xlook up function)_**
+
 **_6.	Descriptive statistics_**
+
 **_7.	Pivot table for summarizing data_**
+
 **_8.	Data transformation on PowerBI_**
