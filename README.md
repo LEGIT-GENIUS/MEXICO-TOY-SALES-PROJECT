@@ -105,3 +105,19 @@ However, considering the amount of inventory that is tied up (29,742), it can be
 
 ![Screenshot 2024-01-29 221351](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/6f220e86-ff98-489b-836e-14bedaa6ee0c)
 
+link to the interactive dashboard: https://app.powerbi.com/groups/me/reports/a60e9db5-d26a-4d6e-a042-3b98f5326d44/ReportSection?experience=power-bi
+
+# ADDITIONAL INSIGHTS
+
+This covers additional insights derived from the dataset that were not requested in the problem statement section but could provide additional insights for the prospect client which could the decision-making process in other case scenario.
+
+* Of all the four (4) locations, over 58%of the overall sales took place at the Downtown store location. Making it the location with much more prospect in terms of sales.
+  
+* The most profitable month was in December 2022, which was also the month with the highest sales volume.
+  
+* In terms of sales, the product driving the most sale1s is Art & Crafts with a 30% share of the total sales followed by Toy with a 25% of the total sales volume. However, in 2022, Toy products have the largest volume of sales share accounting for 26% of total sales volume followed by Art & Crafts having a 22% share of the sales volume. Furthermore, in 2023, the case seems to be different Art and & Crafts had the most share of the sales volume with 38%, while Toy has 23% of the sales volume.
+  
+* Focusing on the different categories of products, the sales and profit pattern for electronic product happens to be on a steady decline from its initial position of $143,088 in January 20222. This is an indication that the product is not performing well in each location in terms of sales and profitability
+
+
+![image](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/c42f74af-574e-4700-b6fc-5843690fb62b)
