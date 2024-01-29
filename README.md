@@ -11,3 +11,9 @@ The dataset made available for this analysis was presented in CSV excel file for
 3.	Stores 
 4.	Location
 And can be accessed on the webpage via the link: https://mavenanalytics.io/data-playground?page=6&pageSize=5 
+
+# RECOMMENDED AND REQUIRED ANALYSIS
+**1.	Which product categories drive the biggest profits? Is this the same across store locations?**
+**2.	Can you find any seasonal trends or patterns in the sales data?**
+**3.	Are sales being lost with out-of-stock products at certain locations?**
+**4.	How much money is tied up in inventory at the toy stores? How long will it last?**
