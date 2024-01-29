@@ -54,3 +54,43 @@ The product category that drives the biggest profits is the Toy category with an
 * Downtown: Toys with its total profit valued at $630,029.
   
 * Residential: Toys with its total profit valued at $136,214.
+
+**2.	Can you find any seasonal trends or patterns in the sales data?**
+
+With regards to the seasonal trends in the sales pattern, emphasis is being laid on the monthly sales for each distinctive year. The identified trends are as follows;
+
+* A slight decrease in the sales from January to February, which is then accompanied by an increase in sales from February to march. In 2022, the sales between January and February decreased from $542,554.91 to $541,351.65 while in 2023, the sales between January and February decreased from $741,196.22 to $722,632.19. Also, in 2022, the sales between February and march increased from $541,351.65 to $589,485.19 while in 2023, the sales between February and March increased from $722,632.19 to $883,515.64.
+  
+* Also, in 2022, the volume of sales increased from march to April, decreased from April to May, and also decreased from May to June. This was a similar trend in 2023 as well.
+   
+* Also, sales dropped from July to august in both years. Given that the data that was made available stopped at September 2023, it was deem as wise not to go past September 2023 to identify the similar trends in the sales for both years.
+
+**_However, despite the similarities in the monthly trends for each year, the following abnormalities were noted with regards to the sales trends;_**
+
+* In 2022, there was an increase in sales between March and April which was not the same in 2023 because there was a decrease in sales between March and April.
+
+* Also, there was a decrease in sales between June and July in 2022 while there was an increase in sales between June and July in 2023.
+
+* In 2022, the sales level increased between august and September while the sales level decreased between August and September in 2023.
+
+**3.	Are sales being lost with out-of-stock products at certain locations?**
+
+Yes, apparently, when some products are out of stock, sales are being lost in certain locations but the differences lie the values and worth of sales that were actually lost in these locations. A breakdown of the lost in sales due to out-of-stock products in each location will be given below:
+
+![image](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/0a002ab0-36b0-4cd4-ae8c-a3eace336b29)
+
+Amounts in the diagram above are expressed in millions
+
+**4.	How much money is tied up in inventory at the toy stores? How long will it last?**
+
+About 29,742 units of items are tied up at the inventory level, valued at $300,210. Their valuation was do with respect to the cost of each item. In order to know how long this would last, an estimation of the monthly sales by the store needs to be conducted.
+
+* In 2022, a total of 549,492 units were sold, making the average unit sold per-month to be equal to 45,791 (549,492/12).
+   
+* However, in 2023, a total of 541,073 units were sold, making the average unit sold per-month to be equal to 60,119 (541,073/9), considering the fact that the data in 2023 only comprises of records from January to September.
+  
+**So, given the following estimation, it is advisable to get the average of the monthly sales in 2022 and 2023 in order to get the proper monthly estimate for each month;
+45,791 + 60,119 = 105,910
+102,910/2 = 52,955
+Therefore, the actual average of units sold per-month is 52,955.
+However, considering the amount of inventory that is tied up (29,742), it can be said that such won’t last more than a month.**
