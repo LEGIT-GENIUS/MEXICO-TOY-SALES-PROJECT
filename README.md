@@ -102,5 +102,6 @@ However, considering the amount of inventory that is tied up (29,742), it can be
 # THE POWERBI DASHBOARD
 
 ![Screenshot 2024-01-29 221206](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/045fe645-0585-4c4a-a04e-7297e9516304)
-![Screenshot 2024-01-29 221206](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/4c94117c-25af-478d-a1e9-f39d8fa4f723)
+
+![Screenshot 2024-01-29 221351](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/6f220e86-ff98-489b-836e-14bedaa6ee0c)
 
