@@ -20,3 +20,7 @@ And can be accessed on the webpage via the link: https://mavenanalytics.io/data-
 **3.	Are sales being lost with out-of-stock products at certain locations?**
 
 **4.	How much money is tied up in inventory at the toy stores? How long will it last?**
+
+# TOOLS APPLIED IN THE PROCESS OF THE ANALYSIS
+1.	Microsoft Excel 
+2.	PowerBI
