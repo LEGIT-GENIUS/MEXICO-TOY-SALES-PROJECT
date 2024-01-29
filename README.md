@@ -41,3 +41,16 @@ And can be accessed on the webpage via the link: https://mavenanalytics.io/data-
 **_7.	Pivot table for summarizing data_**
 
 **_8.	Data transformation on PowerBI_**
+
+# ANSWERS TO BUSINESS QUESTIONS BASED ON THE ANALYSIS WITH THE USE OF MICROSOFT EXCEL AND POWERBI
+
+**1.	Which product categories drive the biggest profits? Is this the same across store locations?**
+The product category that drives the biggest profits is the Toy category with an approximate profit of $1,079,527($1.08 million). However, this is not the same across all location, the product category that drives the biggest profit in each location is written below;
+
+* Airport: Electronics with its total profit valued at $108,197.
+
+* Commercial: Electronics with its total profit valued at $287,574.
+  
+* Downtown: Toys with its total profit valued at $630,029.
+  
+* Residential: Toys with its total profit valued at $136,214.
