@@ -10,10 +10,11 @@ The dataset used for this project was presented in CSV excel file format and com
 2.	Sales 
 3.	Stores 
 4.	Location
+
 And can be accessed on the webpage via the link: https://mavenanalytics.io/data-playground?page=6&pageSize=5 
 
 # RECOMMENDED AND REQUIRED ANALYSIS
-**1.	Which product categories drive the biggest profits? Is this the same across store locations?**
+**1.	Which product categories drives the biggest profits? Is this the same across store locations?**
 
 **2.	Can you find any seasonal trends or patterns in the sales data?**
 
@@ -22,10 +23,11 @@ And can be accessed on the webpage via the link: https://mavenanalytics.io/data-
 **4.	How much money is tied up in inventory at the toy stores? How long will it last?**
 
 # TOOLS APPLIED IN THE PROCESS OF THE ANALYSIS
+
 1.	Microsoft Excel 
 2.	PowerBI
 
-# CONEPTS AND SKILLS APPLIED IN THE PROCESS OF THE ANALYSIS
+# SKILLS APPLICABLE DURING THE DATA AGGREGATION, CLEANING, AND ANALYSIS PHASE
 **_1. Data cleaning_**
 
 **_2.	Data transformation_**
