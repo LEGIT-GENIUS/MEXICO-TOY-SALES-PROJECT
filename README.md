@@ -5,7 +5,7 @@
 The dataset contains records on the Sales & inventory for a fictitious chain of toy stores in Mexico called Maven Toys, it includes information on the product categories and description, stores daily sales transactions, and current inventory levels at each location. All records provided were slated from January 2022 to September 2023.
 
 # DATA OVERVIEW
-The dataset made available for this analysis was presented in CSV excel file format and comprises of four different workbook namely:
+The dataset used for this project was presented in CSV excel file format and comprises of four different workbook namely:
 1.	Inventories
 2.	Sales 
 3.	Stores 
