@@ -2,7 +2,7 @@
 ![image](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/a36029cd-529e-41fa-81ff-871c1e32538f)
 
 # INTRODUCTION
-The dataset comprises of the records on the Sales & inventory data for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily transactions, and current inventory levels at each location. All records provided were slated from January 2021 to September 2022.
+The dataset contains records on the Sales & inventory for a fictitious chain of toy stores in Mexico called Maven Toys, including information about products, stores, daily transactions, and current inventory levels at each location. All records provided were slated from January 2021 to September 2022.
 
 # ABOUT THE DATASET
 The dataset made available for this analysis was presented in CSV excel file format and comprises of four different work different worksheet namely:
