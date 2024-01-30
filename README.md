@@ -81,7 +81,7 @@ With regards to the seasonal trends in the sales pattern, emphasis is being laid
 
 Yes, apparently, when some products are out of stock, sales are being lost in all the locations but the differences lies in the values and worth of sales that were actually lost in these locations. A breakdown of the lost in sales due to out-of-stock products in each location will be given below:
 
-![image](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/9e92ed8f-3255-49af-a278-3c8227abaa27)
+![Screenshot 2024-01-30 120415](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/63db73df-96ab-49b8-98b1-5eb349aeafaa)
 
 
 Amounts represented in the diagram above are expressed in millions
