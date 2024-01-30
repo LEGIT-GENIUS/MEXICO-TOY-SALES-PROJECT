@@ -27,7 +27,8 @@ And can be accessed on the webpage via the link: https://mavenanalytics.io/data-
 1.	Microsoft Excel 
 2.	PowerBI
 
-# SKILLS APPLICABLE DURING THE DATA AGGREGATION, CLEANING, AND ANALYSIS PHASE
+# SKILLS APPLIED DURING THE DATA AGGREGATION, CLEANING, AND ANALYSIS PHASE
+
 **_1. Data cleaning_**
 
 **_2.	Data transformation_**
@@ -47,7 +48,7 @@ And can be accessed on the webpage via the link: https://mavenanalytics.io/data-
 # ANSWERS TO BUSINESS QUESTIONS BASED ON THE ANALYSIS WITH THE USE OF MICROSOFT EXCEL AND POWERBI
 
 **1.	Which product categories drive the biggest profits? Is this the same across store locations?**
-The product category that drives the biggest profits is the Toy category with an approximate profit of $1,079,527($1.08 million). However, this is not the same across all location, the product category that drives the biggest profit in each location is written below;
+The product category with the biggest profits is the Toy category with an approximated profit level of $1,079,527($1.08 million). However, this is not the same across all location, the product category driving the biggest profit in each location is written below;
 
 * Airport: Electronics with its total profit valued at $108,197.
 
@@ -59,7 +60,7 @@ The product category that drives the biggest profits is the Toy category with an
 
 **2.	Can you find any seasonal trends or patterns in the sales data?**
 
-With regards to the seasonal trends in the sales pattern, emphasis is being laid on the monthly sales for each distinctive year. The identified trends are as follows;
+With regards to the seasonal trends in the sales pattern, emphasis is being laid on the monthly sales pattern for each distinctive year. The identified trends are as follows;
 
 * A slight decrease in the sales from January to February, which is then accompanied by an increase in sales from February to march. In 2022, the sales between January and February decreased from $542,554.91 to $541,351.65 while in 2023, the sales between January and February decreased from $741,196.22 to $722,632.19. Also, in 2022, the sales between February and march increased from $541,351.65 to $589,485.19 while in 2023, the sales between February and March increased from $722,632.19 to $883,515.64.
   
