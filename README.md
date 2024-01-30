@@ -120,7 +120,7 @@ This covers additional information derived from the dataset that were not reques
   
 * The most profitable month was in December 2022, which was also the month with the highest sales volume.
   
-* In terms of sales, the product driving the most sale1s is Art & Crafts with a 30% share of the total sales followed by Toy with 25% of the total sales volume. However, in 2022, Toy products had the largest volume of sales share accounting for 26% of total sales volume followed by Art & Crafts having a 22% share of the sales volume. Furthermore, in 2023, the case seems to be different Art and & Crafts had the most share of the sales volume with 38%, while Toy has 23% of the sales volume.
+* In terms of sales, the product driving the most sales is Art & Crafts with 30% share of the total sales, followed by Toy with 25% share of the total sales volume. However, in 2022, Toy products had the largest volume of sales share accounting for 26% of total sales volume followed by Art & Crafts having a 22% share of the sales volume. Furthermore, in 2023, the case seems to be different, Art and & Crafts had the most share of the sales volume with 38%, while Toy has 23% of the sales volume.
   
 * Focusing on the different categories of products, the sales and profit pattern for electronic product happens to be on a steady decline from its initial position of $143,088 in January 20222. This is an indication that the product is not performing well in each location in terms of sales and profitability. This should send a signal that further assessment needs to be done with regards to this specific product not performing well.
 
