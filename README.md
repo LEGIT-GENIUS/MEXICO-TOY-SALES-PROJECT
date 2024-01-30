@@ -60,15 +60,15 @@ The product category with the biggest profits is the Toy category with an approx
 
 **2.	Can you find any seasonal trends or patterns in the sales data?**
 
-With regards to the seasonal trends in the sales pattern, emphasis is being laid on the monthly sales pattern for each distinctive year. The identified trends are as follows;
+With regards to the seasonal trends in the sales pattern, emphasis is being laid on the monthly sales pattern for each year (2022 to 2023) separately. The identified trends are as follows;
 
 * A slight decrease in the sales from January to February, which is then accompanied by an increase in sales from February to march. In 2022, the sales between January and February decreased from $542,554.91 to $541,351.65 while in 2023, the sales between January and February decreased from $741,196.22 to $722,632.19. Also, in 2022, the sales between February and march increased from $541,351.65 to $589,485.19 while in 2023, the sales between February and March increased from $722,632.19 to $883,515.64.
   
 * Also, in 2022, the volume of sales increased from march to April, decreased from April to May, and also decreased from May to June. This was a similar trend in 2023 as well.
    
-* Also, sales dropped from July to august in both years. Given that the data that was made available stopped at September 2023, it was deem as wise not to go past September 2023 to identify the similar trends in the sales for both years.
+* Also, sales dropped from July to august in both years. Given that the data that was made available stopped at September 2023, it was deemed as wise not to go past September 2023 to identify the similar trends in the sales for both years.
 
-**_However, despite the similarities in the monthly trends for each year, the following abnormalities were noted with regards to the sales trends;_**
+**_However, despite the similarities in the monthly trends for each year, the following abnormalities were noted with regards to the sales trends in both years;_**
 
 * In 2022, there was an increase in sales between March and April which was not the same in 2023 because there was a decrease in sales between March and April.
 
@@ -78,16 +78,16 @@ With regards to the seasonal trends in the sales pattern, emphasis is being laid
 
 **3.	Are sales being lost with out-of-stock products at certain locations?**
 
-Yes, apparently, when some products are out of stock, sales are being lost in certain locations but the differences lie the values and worth of sales that were actually lost in these locations. A breakdown of the lost in sales due to out-of-stock products in each location will be given below:
+Yes, apparently, when some products are out of stock, sales are being lost in all the locations but the differences lies in the values and worth of sales that were actually lost in these locations. A breakdown of the lost in sales due to out-of-stock products in each location will be given below:
 
 ![image](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/9e92ed8f-3255-49af-a278-3c8227abaa27)
 
 
-Amounts in the diagram above are expressed in millions
+Amounts represented in the diagram above are expressed in millions
 
 **4.	How much money is tied up in inventory at the toy stores? How long will it last?**
 
-About 29,742 units of items are tied up at the inventory level, valued at $300,210. Their valuation was do with respect to the cost of each item. In order to know how long this would last, an estimation of the monthly sales by the store needs to be conducted.
+About 29,742 units of items are tied up at the inventory level, valued at $300,210. Their valuation was do with respect to the per-unit cost of each item. In order to know how long this would last, an estimation of the monthly sales by the store needs to be conducted.
 
 * In 2022, a total of 549,492 units were sold, making the average unit sold per-month to be equal to 45,791 (549,492/12).
    
@@ -113,15 +113,15 @@ link to the interactive dashboard: https://app.powerbi.com/groups/me/reports/a60
 
 # ADDITIONAL INSIGHTS
 
-This covers additional insights derived from the dataset that were not requested in the problem statement section but could provide additional insights for the prospect client which could the decision-making process in other case scenario.
+This covers additional information derived from the dataset that were not requested in the problem statement section but could provide additional support for the prospect client which could enhance the decision-making process in other case scenario.
 
 * Of all the four (4) locations, over 58%of the overall sales took place at the Downtown store location. Making it the location with much more prospect in terms of sales.
   
 * The most profitable month was in December 2022, which was also the month with the highest sales volume.
   
-* In terms of sales, the product driving the most sale1s is Art & Crafts with a 30% share of the total sales followed by Toy with a 25% of the total sales volume. However, in 2022, Toy products have the largest volume of sales share accounting for 26% of total sales volume followed by Art & Crafts having a 22% share of the sales volume. Furthermore, in 2023, the case seems to be different Art and & Crafts had the most share of the sales volume with 38%, while Toy has 23% of the sales volume.
+* In terms of sales, the product driving the most sale1s is Art & Crafts with a 30% share of the total sales followed by Toy with 25% of the total sales volume. However, in 2022, Toy products had the largest volume of sales share accounting for 26% of total sales volume followed by Art & Crafts having a 22% share of the sales volume. Furthermore, in 2023, the case seems to be different Art and & Crafts had the most share of the sales volume with 38%, while Toy has 23% of the sales volume.
   
-* Focusing on the different categories of products, the sales and profit pattern for electronic product happens to be on a steady decline from its initial position of $143,088 in January 20222. This is an indication that the product is not performing well in each location in terms of sales and profitability
+* Focusing on the different categories of products, the sales and profit pattern for electronic product happens to be on a steady decline from its initial position of $143,088 in January 20222. This is an indication that the product is not performing well in each location in terms of sales and profitability. This should send a signal that further assessment needs to be done with regards to this specific product not performing well.
 
 
 ![image](https://github.com/LEGIT-GENIUS/MEXICO-TOY-SALES-PROJECT/assets/139655319/c42f74af-574e-4700-b6fc-5843690fb62b)
